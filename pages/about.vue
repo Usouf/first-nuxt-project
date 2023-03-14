@@ -1,7 +1,7 @@
 <template>
     <div>
         <h2>About</h2>
-        <p>Hello to DMCG website about</p>
+        <p>Hello to Nuxt website about</p>
         <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus magni facilis laudantium 
             atque eaque facere iste odio non quisquam nemo, voluptatibus et, consectetur ut. Saepe, 
