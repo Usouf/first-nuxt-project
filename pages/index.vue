@@ -1,7 +1,7 @@
 <template>
     <div>
         <h2>Home</h2>
-        <p>Hello to DMCG website index</p>
+        <p>Hello to Nuxt website index</p>
         <p>
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Possimus magni facilis laudantium 
             atque eaque facere iste odio non quisquam nemo, voluptatibus et, consectetur ut. Saepe, 
